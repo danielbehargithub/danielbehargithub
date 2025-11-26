@@ -1,6 +1,5 @@
 ## 👋 Hi, I'm Daniel Behar
 
-I'm completing my **B.Sc. in Data Science & Engineering** at the **Technion**.  
 My passion for data started long before my degree- when I realized how limited old football stats like *shots on target* were, and how advanced metrics like *expected goals (xG)* can truly change how we evaluate performance. 
 
 Since then, I’ve been fascinated by how **data transforms decision-making**, whether in sports, finance, or public policy.
@@ -23,4 +22,4 @@ Since then, I’ve been fascinated by how **data transforms decision-making**, w
 **Tech Stack:** Python · pandas · NumPy · SQL · PyTorch · scikit-learn · statsmodels  
 **Focus Areas:** Data Analysis · Causal Inference · Machine Learning · Product Analytics  
 
-**Let’s connect:** [LinkedIn](https://www.linkedin.com/in/daniel-behar-168647280/)
+**Let’s connect:** [LinkedIn](https://www.linkedin.com/in/behar-daniel/)
